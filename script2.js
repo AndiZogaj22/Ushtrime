@@ -32,6 +32,7 @@ let two = 2
 console.log(one === two)
 console.log(one == two)
 console.log(one === one)
+console.log(one== one)
 
 //task 10
 
