@@ -19,3 +19,28 @@ console.log(test !== "This is a test")
 
 
 //CONDITIONS
+
+//if 
+//else 
+let time = 26
+if (time < 12){
+    console.log("mirmengjes")
+}else if (time < 14){
+    console.log("miredita")
+}else if (time < 25){
+    console.log("mirembrema")
+}else {
+    console.log("gabim")
+}
+
+const opendoor = false
+if(opendoor){
+    console.log("dera hapur")
+}else {
+    console.log("dera mbyllur")
+}
+
+// ternary operator
+opendoor
+? console.log("dera hapur")
+: console.log("dera mbyllur")
