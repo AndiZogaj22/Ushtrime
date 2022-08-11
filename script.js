@@ -18,7 +18,7 @@ console.log("Ky esht string".length)
 console.log('ky eshte string'.toUpperCase())
 console.log(`ky eshte nje stringn`.toLowerCase())
 console.log("Ku eshte shkronja e par A ne kete string".indexOf("u"))
-console.log("String me slice".slice("6")) 
+console.log("String me slice".slice("5")) 
 console.log("String me split".split(""))
 
 //numbers
